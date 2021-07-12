@@ -1,0 +1,5 @@
+package com.distribuidos.microservicio.app.cursos.models.repository;
+
+public interface CursoRepository {
+
+}

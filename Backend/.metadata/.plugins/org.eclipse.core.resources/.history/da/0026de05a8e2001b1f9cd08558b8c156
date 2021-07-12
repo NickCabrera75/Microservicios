@@ -1,0 +1,5 @@
+package com.distribuidos.microservicio.app.examenes.models.repository;
+
+public interface AsignaturaRepository {
+
+}

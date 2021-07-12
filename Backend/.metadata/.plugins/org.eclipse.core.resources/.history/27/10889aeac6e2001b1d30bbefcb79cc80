@@ -1,0 +1,5 @@
+package com.distribuidos.microservicio.app.respuestas.services;
+
+public interface RespuestasService {
+
+}
