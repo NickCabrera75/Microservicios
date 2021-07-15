@@ -1,7 +1,0 @@
-package com.distribuidos.microservicio.app.respuestas.models.repository;
-
-import org.springframework.data.repository.CrudRepository;
-
-public interface RespuestasRepository extends CrudRepository<Respuesta, Long> {
-
-}

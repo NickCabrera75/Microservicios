@@ -1,5 +1,0 @@
-package com.distribuidos.microservicio.app.cursos.clients;
-
-public interface RespuestaFeignClient {
-
-}

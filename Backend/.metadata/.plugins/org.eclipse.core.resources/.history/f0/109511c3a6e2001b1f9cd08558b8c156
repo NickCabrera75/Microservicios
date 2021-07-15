@@ -1,5 +1,0 @@
-package com.distribuidos.microservicio.commonsexamenes.models.entity;
-
-public class Asignatura {
-
-}

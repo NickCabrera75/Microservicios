@@ -1,5 +1,0 @@
-package com.distribuidos.microservicio.app.cursos.controllers;
-
-public enum CursoController {
-
-}

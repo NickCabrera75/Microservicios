@@ -1,5 +1,0 @@
-package com.distribuidos.microservicio.app.usuarios.repository;
-
-public class AlumnoRepository {
-
-}
