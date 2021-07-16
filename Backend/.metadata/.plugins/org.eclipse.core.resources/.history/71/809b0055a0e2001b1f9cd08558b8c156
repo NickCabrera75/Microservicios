@@ -1,5 +1,0 @@
-package com.distribuidos.microservicio.app.examenes.controllers;
-
-public class ExamenController {
-
-}

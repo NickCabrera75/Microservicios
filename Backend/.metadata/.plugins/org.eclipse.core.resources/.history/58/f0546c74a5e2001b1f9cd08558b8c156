@@ -1,8 +1,0 @@
-package com.distribuidos.microservicio.app.examenes.services;
-
-import com.distribuidos.microservicio.commons.services.CommonService;
-import com.distribuidos.microservicio.commonsexamenes.models.entity.Examen;
-
-public interface ExamenService  extends CommonService<Examen>{
-
-}

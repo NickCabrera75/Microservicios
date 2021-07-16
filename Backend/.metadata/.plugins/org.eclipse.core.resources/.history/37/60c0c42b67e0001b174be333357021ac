@@ -1,8 +1,0 @@
-package com.distribuidos.microservicio.app.usuarios.services;
-
-import com.distribuidos.microservicio.app.usuarios.models.entity.Alumno;
-import com.distribuidos.microservicio.commons.services.CommonService;
-
-public interface AlumnoService extends CommonService<Alumno>{
-
-}
